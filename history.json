@@ -1,0 +1,43 @@
+{
+      "generated_text": "Hey! :D",
+      "conversation": {
+            "generated_responses": [
+                  "Hey! :D"
+            ],
+            "past_user_inputs": [
+                  "hi"
+            ]
+      },
+      "warnings": [
+            "Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.",
+            "The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results."
+      ]
+}{
+      "generated_text": "I'm good, how are you?",
+      "conversation": {
+            "generated_responses": [
+                  "I'm good, how are you?"
+            ],
+            "past_user_inputs": [
+                  "how are you"
+            ]
+      },
+      "warnings": [
+            "Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.",
+            "The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results."
+      ]
+}{
+      "generated_text": "",
+      "conversation": {
+            "generated_responses": [
+                  ""
+            ],
+            "past_user_inputs": [
+                  "exit"
+            ]
+      },
+      "warnings": [
+            "Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.",
+            "The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results."
+      ]
+}
